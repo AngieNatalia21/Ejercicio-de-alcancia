@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//Angie Lorena Sierra Espejo//
 public class Main {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
@@ -55,7 +54,7 @@ public class Main {
                             mon500++;
                             break;
                     }
-//Angie Lorena Sierra Espejo //
+
                     break;
                 case 2:
                     System.out.printf("Contar monedas");
