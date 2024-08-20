@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-//Angie Lorena Sierra Espejo//
+    //Angie Lorena Sierra Espejo
+    //Ejercicio de alcancia
+    //20-08-24
 public class Main {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
