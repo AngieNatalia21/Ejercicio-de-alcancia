@@ -55,7 +55,7 @@ public class Main {
                             mon500++;
                             break;
                     }
-
+//Angie Lorena Sierra Espejogit status
                     break;
                 case 2:
                     System.out.printf("Contar monedas");
